@@ -1,0 +1,5 @@
+# Ignore IDE and editor files
+.idea/
+.vscode/
+logs/
+vendor/
