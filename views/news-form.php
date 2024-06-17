@@ -48,7 +48,7 @@ use Seminario\Mvc\Entity\News;
                                 Por favor, selecione uma categoria.alte
                             </div>
                         </div>
-<!--teste-->
+<!--testes-->
                     </div>
                     <button type="submit" class="btn btn-primary btn-round">Enviar</button>
                 </form>
